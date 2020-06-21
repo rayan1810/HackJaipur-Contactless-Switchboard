@@ -1,4 +1,4 @@
-Project LIVE AT : http://www.csichitkara.club
+Project LIVE AT : http://18.223.33.246/
 
 
 
@@ -41,7 +41,7 @@ Raspberry Pi Configuration :
 
 -------------------------Server Configuration--------------------------<br>
 <br>
-Working LINK : http://www.csichitkara.club (our own domain)<br>
+Working LINK : http://18.223.33.246/ (our own domain)<br>
 <br>
 ```
 1. Launch An Aws/GCP/Azure AMI/Ubuntu Server/LINUX Virtual Machine.
@@ -76,8 +76,6 @@ Working LINK : http://www.csichitkara.club (our own domain)<br>
 	i. observe Bill Pridicted
 	j. go to calender sections watch daily usage and predicted everyday consumption
 	k. Custom SMS Notification on abnormal usage of electricity
-	l. Go to csichitkara.club/hostels || yourserverip/hostels for admin control over the building
-	   used fro PN's and security personals.
 	   
  <br>
  MAKE SURE AWS NODE SERVER IS ALREADY DEPLOYED----------<br>
@@ -85,7 +83,7 @@ Working LINK : http://www.csichitkara.club (our own domain)<br>
 
 -------------------------Server Configuration--------------------------<br>
 
-Working LINK : http://www.csichitkara.club (our own domain)<br>
+Working LINK : http://18.223.33.246/ (our own domain)<br>
 ```
 1. Launch An Aws tensorflow LINUX Virtual Machine. (Deep Learning AMI (AMAZON LINUX 2) version 24.2 )
 2. Install NVM in the machine (Look in references)
